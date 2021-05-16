@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Indie Flower', cursive;
+}
+
+.navbar { 
+    background-color: white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, .05);
+	
+}
+
+.nav-link {
+	color: green
+}
+
+.nav-item .nav-link strong {
+    font-size: 20px;
+}
+
+#hero {
+	background-image: url("../imagenes/veganos 5.png");
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 700px;
+	color: white;
+}#hero .container-fluid .text-center {
+    font-size: 60px;
+}
+#hero .container-fluid .text-center {
+    font-size: 100px;
+}
+#hero .container-fluid .center {
+    font-size: 30px;
+}
+#hero .container-fluid {
+    margin-top: 150px;
+}
+
+
+.center {
+    text-align: center;
+}
+
+#portafolio .container-fluid {
+    margin-top: 80px;
+}
+#portafolio2 .container-fluid {
+    margin-top: 80px;
+}
+#portafolio2 .container-fluid .container-fluid {
+    margin-top: -10px;
+}
+#portafolio .container-fluid .container-fluid {
+    margin-top: -8px;
+}
+
+#portafolio .container-fluid .container-fluid {
+}
